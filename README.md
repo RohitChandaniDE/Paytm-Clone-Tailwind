@@ -1,4 +1,4 @@
-# Paytm Clone Tailwind
+# Paytm Clone TailwindCSS
 
 
 ![Tech](https://img.shields.io/badge/HTML-Tailwind-blue)
